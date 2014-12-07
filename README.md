@@ -1,4 +1,4 @@
-Marble-Mystic---A-Simple-Challenging-Game
+Marble-Mystic---A Simple Board Game
 =========================================
 
 Steps to run this code:
